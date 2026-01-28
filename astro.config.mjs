@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://claritytech.github.io',
+  site: 'https://clarity-tech.github.io',
   base: '/tranquil-tails-landing',
   vite: {
     plugins: [tailwindcss()]
